@@ -1,0 +1,16 @@
+{
+  "name": "sarcina1",
+  "version": "1.0.0",
+  "description": "A project for testing anonymous report functionality",
+  "main": "anonymous_report.spec.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.53.0",
+    "jest": "^27.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
